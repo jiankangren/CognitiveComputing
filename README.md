@@ -1,2 +1,7 @@
 # CognitiveComputing
-Project REPO for CS698 Cognitive Computing
+------------------------------------------
+Project repository for CS698 Cognitive Computing
+
+In this project we aim to build a cognitive model to analysis NYC 311 dataset.(TO write more)
+
+
